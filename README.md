@@ -3,7 +3,7 @@
 ## 🌐 Web Site 
 **[www.mariaconcettamarena.it](https://www.mariaconcettamarena.it)**
 
-![Anteprima del sito](./assets/screenshots/Screenshot_home.png)
+![Anteprima del sito](./assets/screenshots/Screenshot_Home.png)
 ---
 
 ## 📌 Descrizione del Progetto
