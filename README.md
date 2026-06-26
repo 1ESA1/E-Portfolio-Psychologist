@@ -1,9 +1,17 @@
 # Sito Web per Psicologa – Progetto E-Portfolio
 
-## 🌐 Web Site 
-**[www.mariaconcettamarena.it](https://www.mariaconcettamarena.it)**
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Repo Size](https://img.shields.io/github/repo-size/1ESA1/E-Portfolio-Psychologist?style=plastic&logo=github&logoColor=white&color=4CAF50)](https://github.com/1ESA1/E-Portfolio-Psychologist)
+[![GitHub stars](https://img.shields.io/github/stars/1ESA1/E-Portfolio-Psychologist?style=plastic&logo=github&logoColor=white&color=yellow)](https://github.com/1ESA1/E-Portfolio-Psychologist/stargazers)
+
+[![Website](https://img.shields.io/badge/Website-Live-4285F4?style=plastic&logo=world&logoColor=white)](https://www.mariaconcettamarena.it)
 
 ![Anteprima del sito](./assets/screenshots/Screenshot_Home.png)
+[![Build Status](https://img.shields.io/badge/Build-Passing-2ecc71?style=plastic&logo=github-actions&logoColor=white)](https://github.com/1ESA1/Cifrario-di-Vigenere)
+[![Deploy Status](https://img.shields.io/badge/Deploy-Successful-2ecc71?style=plastic&logo=vercel&logoColor=white)](https://1esa1.github.io/Cifrario-di-Vigenere/)
+
 ---
 
 ## 📌 Descrizione del Progetto
@@ -65,3 +73,5 @@ Trattandosi di un prodotto commerciale per un cliente reale, il codice sorgente 
 
 Trattandosi di un progetto per un cliente reale, il codice sorgente non è incluso in questo repository per motivi di privacy. Il presente README funge da **case study** per illustrare il lavoro svolto.
 
+[![GitHub](https://img.shields.io/badge/GitHub-project_developed_by_1ESA1-0288D1?style=plastic&logo=github&logoColor=white)](https://github.com/1ESA1)
+[![License](https://img.shields.io/badge/License-Apache%202.0-5C2D91?style=plastic&logo=apache&logoColor=white)](LICENSE)
